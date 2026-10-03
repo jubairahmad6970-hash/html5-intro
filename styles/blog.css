@@ -1,0 +1,14 @@
+nav > ul> li{
+    display: inline;
+}
+nav li>a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+article > figure >figcaption{
+    text-align: center;
+    text-decoration:underline;
+    text-decoration: tan;
+}
